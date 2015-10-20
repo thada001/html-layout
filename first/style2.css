@@ -1,0 +1,25 @@
+#Top {
+	height: 8em;
+	width: 100%;
+	background-color: #404040;
+}
+#Left {
+	float: left;
+	height: 33em;
+	width: 20%;
+	background-color: #E0E0E0;
+}
+#Right {
+	float: right;
+	height: 33em;
+	width: 20%;
+	background-color: #E0E0E0;
+}
+#Bottom {
+	position: fixed;
+	bottom: 0;
+	margin-left: 19.5%;
+	height: 5em;
+	width: 59%;
+	background-color: #202020;
+}

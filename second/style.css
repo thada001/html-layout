@@ -1,18 +1,28 @@
 #left {
-	display: inline-block;
-	height: 100vh;
-	width: 33.33%;
+	
+	float: left;
+	height: 41em;
+	width: 33%;
+	margin-top: -10px;
+	margin-left: -10px;
 	background-color: #4096EE;
 }
-#center {
-	display: inline-block;
-	height: 100vh;
-	width: 33.33%;
+	
+body {
 	background-color: #33FFCC;
 }
 #right {
-	display: inline-block;
-	height: 100vh;
-	width: 33.33%;
-	background-color: #66FF99;
+	float: right;
+	height: 41em;
+	width: 33%;
+	margin-top: -10px;
+	margin-right: -10px;
+	background-color: #BDD684;
+}
+img {
+	position: fixed;
+	bottom: 0;
+	right: 0;
+	height: 15%;
+	width: 32%;
 }
