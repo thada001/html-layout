@@ -1,0 +1,27 @@
+body {
+	background-color: #202020;
+}
+#Top {
+	height: 8em;
+	width: 100%;
+	background-color: #404040;
+}
+#Left {
+	float: left;
+	height: 33em;
+	width:20%;
+	background-color: #E0E0E0;
+}
+#Right {
+	float: right;
+	height: 33em;
+	width: 20%;
+	background-color: #E0E0E0;
+}
+#Middle {
+	display: inline-block;
+	margin: 8em, 20%, 20%, 5em;
+	height: 30em;
+	width: 60%;
+	background-color: white;
+}
